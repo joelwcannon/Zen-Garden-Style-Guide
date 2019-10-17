@@ -1,7 +1,9 @@
-Style Guide Template
-=========
+# Zen Garden Style Guide
+======================
 
-A customizable Style Guide template, to gather design guidelines and share them with colleagues and clients.
+This is the Style Guide for the a Garden project, which is a team effort for BYU Idaho, WDD 331, Fall 2019, Group 1, comprised of Lisa Weber, Edvard Jimenez and Joel Cannon.
+
+
 
 [Article on CodyHouse](http://codyhouse.co/gem/css-style-guide-template/)
 
